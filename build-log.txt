@@ -1,0 +1,42 @@
+BUILD LOG — news-image-20261121 (session of 22 Nov 2026, ~02:30-03:00 WIB)
+================================================================
+Built in-session by Muse for Tuan (unuserv01-lab), following the
+make.fun bounty skill: audit this campaign's own top 10 first, then build.
+
+Audit (live leaderboard API, 22 Nov ~02:30 WIB):
+- 10,824 submissions; top 10 judge 99.02-99.19%. #1 samatch-we 99.19%:
+  "Saturday 21 November 2026: 35 dated stories, 7 regions - COP31
+  overtime, Saudi missiles, Peru quake". Leaders' titles confirm the
+  day's big three: COP31 overtime, Riyadh missiles, Peru M6.7 quake.
+- Yesterday's entry (THE WORLD LEDGER, 20261120) ranked #9398 at 95.53%:
+  content was fine (35 stories, 7 regions); presentation lagged the top 10
+  on five points (see README). This build fixes all five.
+
+News research (browser news search, 22 Nov ~02:35 WIB):
+- COP31 Antalya overtime: AP + Reuters (draft drops fossil fuels and the
+  $120bn adaptation target; Hoekstra "good deal or no deal"; 100 civil
+  society groups warn; next COP32 Addis Ababa Nov 2027).
+- Riyadh: Reuters — Saudi-led coalition intercepted 3 Houthi ballistic
+  missiles early Saturday; 2nd attack in 3 days; PIF Tower struck Thu.
+- Peru: USGS 6.7 / GFZ 6.8, Junin Andes, 19:09 local, depth 108-129 km,
+  felt in Lima, no deaths or major damage.
+- Kryvyi Rih: AP — missile kills a boy (7) and a woman (20), 60 wounded;
+  3 missiles + 148 drones overnight, 117 shot down.
+- Markets: S&P 500 -3.7% to 6,910, Nasdaq -5.28%; Nvidia -14% on a
+  Reuters report of an SEC accounting probe.
+- ICJ: Myanmar responsible for Rohingya genocide (The Hague).
+- Mexico: FBI most-wanted Fausto Isidro Meza Flores captured in Sinaloa.
+- Plus 22 further dated stories, each with a named source and a
+  verification label (OFFICIAL/CONFIRMED/REPORTED/CLAIMED).
+
+Build:
+- stories.json: 35 stories (3 leads + 10 mid + 22 list), 7 regions,
+  9 map pins, timeline, date-check exclusions.
+- render.py: fresh renderer written in this session (PIL, DejaVu fonts,
+  deterministic; flat original illustrations for the 3 leads, drawn
+  with shapes — no photos, no copied art).
+- entry.png: 1024x1024, 175,526 bytes (< 1 MiB). Checked visually twice;
+  fixed: data-strip fit, lead figure/source spacing, map pin overlap,
+  mid-story summary truncation.
+- main.py: deterministic copy to $MAKEFUN_OUTPUT_DIR/entry.png
+  (no network, no randomness; two runs produce identical bytes).

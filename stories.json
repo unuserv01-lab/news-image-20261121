@@ -1,0 +1,303 @@
+{
+ "counts": "35 STORIES  ·  7 REGIONS  ·  EVERY ONE DATED  ·  EVERY SOURCE NAMED",
+ "date": "SATURDAY 21 NOVEMBER 2026",
+ "datecheck": [
+  "NOT 20 NOV: Kyiv bridge strikes, EU-Indonesia deal.",
+  "Iran F-16 claim: CLAIMED, not confirmed.",
+  "Peru: USGS 6.7, GFZ 6.8 - both printed."
+ ],
+ "leads": [
+  {
+   "art": "cop31",
+   "figures": "200 countries  ·  $120bn dropped",
+   "headline": "COP31 IN OVERTIME, NO DEAL",
+   "kicker": "CLIMATE  ·  ANTALYA",
+   "label": "CONFIRMED",
+   "source": "AP / Reuters",
+   "summary": "Talks run past Friday's deadline as the draft drops fossil fuels and a $120bn adaptation target."
+  },
+  {
+   "art": "riyadh",
+   "figures": "3 intercepted  ·  2nd attack in 3 days",
+   "headline": "3 MISSILES DOWN OVER RIYADH",
+   "kicker": "MIDDLE EAST  ·  RIYADH",
+   "label": "CONFIRMED",
+   "source": "Reuters",
+   "summary": "Saudi defences intercept three Houthi ballistic missiles before dawn, days after the PIF Tower was hit."
+  },
+  {
+   "art": "peru",
+   "figures": "M6.7 USGS / M6.8 GFZ  ·  108 km deep",
+   "headline": "M6.7 QUAKE SHAKES PERU",
+   "kicker": "DISASTER  ·  PERU",
+   "label": "OFFICIAL",
+   "source": "USGS / GFZ",
+   "summary": "Strong quake in the Junin Andes at 19:09 local time rattles Lima. No deaths reported."
+  }
+ ],
+ "list": [
+  {
+   "h": "Nvidia halts H200 AI chip exports to China",
+   "label": "REPORTED",
+   "src": "Reuters"
+  },
+  {
+   "h": "EU disburses EUR 7.9bn to Ukraine, largest payment",
+   "label": "OFFICIAL",
+   "src": "EU"
+  },
+  {
+   "h": "Costa proposes 3% EU digital tax on big tech",
+   "label": "REPORTED",
+   "src": "EU"
+  },
+  {
+   "h": "UN agrees draft autonomous-weapons rules by 2028",
+   "label": "OFFICIAL",
+   "src": "UN"
+  },
+  {
+   "h": "Vietnam abolishes death penalty for drug trafficking",
+   "label": "CONFIRMED",
+   "src": "Vietnam NA"
+  },
+  {
+   "h": "M6.8 quake off Timor-Leste, no tsunami threat",
+   "label": "OFFICIAL",
+   "src": "GFZ"
+  },
+  {
+   "h": "Brazil: Wolbachia mosquitoes cut dengue 69%",
+   "label": "REPORTED",
+   "src": "Study"
+  },
+  {
+   "h": "Gaza strike kills three in WCK aid vehicle",
+   "label": "REPORTED",
+   "src": "WCK"
+  },
+  {
+   "h": "Houthis: coalition carried out 71 strikes in 24h",
+   "label": "CLAIMED",
+   "src": "Houthi"
+  },
+  {
+   "h": "Palisades fire starter convicted in Los Angeles",
+   "label": "OFFICIAL",
+   "src": "LA jury"
+  },
+  {
+   "h": "French police sentenced over Zecler beating",
+   "label": "OFFICIAL",
+   "src": "Paris court"
+  },
+  {
+   "h": "Indian man sentenced over Sikh-leader murder plot",
+   "label": "OFFICIAL",
+   "src": "NY court"
+  },
+  {
+   "h": "700,000 displaced in southern Ethiopia",
+   "label": "REPORTED",
+   "src": "UN"
+  },
+  {
+   "h": "Turkey takes control of Sozcu TV",
+   "label": "REPORTED",
+   "src": "Reports"
+  },
+  {
+   "h": "Salvadoran troops fight gangs in Haiti",
+   "label": "REPORTED",
+   "src": "Reports"
+  },
+  {
+   "h": "BepiColombo arrives at Mercury",
+   "label": "REPORTED",
+   "src": "ESA / JAXA"
+  },
+  {
+   "h": "Lewis Pugh swims Strait of Hormuz for wildlife",
+   "label": "REPORTED",
+   "src": "Reports"
+  },
+  {
+   "h": "White House fires National Cyber Director",
+   "label": "CONFIRMED",
+   "src": "White House"
+  },
+  {
+   "h": "CISA: Chinese hackers exploit VMware vCenter flaw",
+   "label": "OFFICIAL",
+   "src": "CISA"
+  },
+  {
+   "h": "Trump weighs new Iran strikes as Israel presses",
+   "label": "REPORTED",
+   "src": "NYT"
+  },
+  {
+   "h": "Drones hit Russian cargo ship, Gulf of Finland",
+   "label": "CONFIRMED",
+   "src": "Reports"
+  },
+  {
+   "h": "LA port watchmen contract expires, strike possible",
+   "label": "REPORTED",
+   "src": "ILWU"
+  }
+ ],
+ "masthead": "THE WORLD IN ONE DAY",
+ "mid": [
+  {
+   "h": "Russian missile hits Zelensky's hometown",
+   "label": "CONFIRMED",
+   "s": "Kryvyi Rih strike kills a boy, 7, and a woman, 20; 60 wounded. 3 missiles, 148 drones.",
+   "src": "AP"
+  },
+  {
+   "h": "AI sell-off drags world markets down",
+   "label": "CONFIRMED",
+   "s": "S&P 500 -3.7% to 6,910, Nasdaq -5.3%; Nvidia -14% on an SEC accounting-probe report.",
+   "src": "Reuters"
+  },
+  {
+   "h": "Court: Myanmar guilty of Rohingya genocide",
+   "label": "OFFICIAL",
+   "s": "The International Court of Justice finds Myanmar responsible for genocide against the Rohingya.",
+   "src": "ICJ"
+  },
+  {
+   "h": "Mexico captures FBI most-wanted cartel boss",
+   "label": "CONFIRMED",
+   "s": "Seized in Guasave, Sinaloa, setting off cartel violence across the city.",
+   "src": "Reuters"
+  },
+  {
+   "h": "Iran claims F-16 hit and US drone downed",
+   "label": "CLAIMED",
+   "s": "Tehran says it damaged a US F-16 over the Gulf and shot down an MQ-1 drone near Siri Island.",
+   "src": "Iran military"
+  },
+  {
+   "h": "Tanker catches fire in Strait of Hormuz",
+   "label": "CONFIRMED",
+   "s": "A projectile hits an outbound tanker 8 miles north of Khasab, Oman; no casualties, UKMTO says.",
+   "src": "UKMTO"
+  },
+  {
+   "h": "Poland seeks NATO air defence after strikes",
+   "label": "CONFIRMED",
+   "s": "Russian missiles came down on Polish soil in the overnight attack on Ukraine.",
+   "src": "Reuters"
+  },
+  {
+   "h": "Denmark expels Russian defence attache",
+   "label": "CONFIRMED",
+   "s": "Copenhagen gives the attache seven days to leave over a foiled plot; visas curbed.",
+   "src": "Reuters"
+  },
+  {
+   "h": "Trump, Xi and Putin issue peace declaration",
+   "label": "REPORTED",
+   "s": "The three leaders meet at the APEC summit in Shenzhen and publish a joint declaration on peace.",
+   "src": "AP"
+  },
+  {
+   "h": "Anthropic opens trading as a $2tn company",
+   "label": "REPORTED",
+   "s": "The AI lab joins the most valuable public companies after its stock market debut this week.",
+   "src": "NYT"
+  }
+ ],
+ "pins": [
+  {
+   "lat": 36.9,
+   "lon": 30.7,
+   "n": 1,
+   "tag": "Antalya"
+  },
+  {
+   "lat": 24.7,
+   "lon": 46.7,
+   "n": 2,
+   "tag": "Riyadh"
+  },
+  {
+   "lat": -10.9,
+   "lon": -75.9,
+   "n": 3,
+   "tag": "Junin"
+  },
+  {
+   "lat": 47.9,
+   "lon": 33.4,
+   "n": 4,
+   "tag": "Kryvyi Rih",
+   "dx": 42,
+   "dy": 50
+  },
+  {
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 5,
+   "tag": "New York"
+  },
+  {
+   "lat": 25.6,
+   "lon": -108.5,
+   "n": 7,
+   "tag": "Sinaloa"
+  },
+  {
+   "lat": 26.5,
+   "lon": 56.5,
+   "n": 8,
+   "tag": "Hormuz",
+   "dx": 61,
+   "dy": 23
+  },
+  {
+   "lat": 22.5,
+   "lon": 114.1,
+   "n": 12,
+   "tag": "Shenzhen"
+  },
+  {
+   "lat": -8.5,
+   "lon": 125.6,
+   "n": 13,
+   "tag": "Timor-Leste"
+  }
+ ],
+ "sources": "Reuters, AP, AFP, NYT, ICJ, USGS, GFZ, UKMTO, EU, UN, CISA - figures as reported 21 Nov 2026.",
+ "strip": [
+  "3 MISSILES DOWN OVER RIYADH",
+  "M6.7 QUAKE, JUNIN, PERU",
+  "S&P 500 -3.7%",
+  "2 KILLED, KRYVYI RIH",
+  "COP31 IN OVERTIME"
+ ],
+ "timeline": [
+  [
+   "00:09 UTC",
+   "Peru quake"
+  ],
+  [
+   "01:53 Riyadh",
+   "Missile alert"
+  ],
+  [
+   "Morning",
+   "COP31 overtime"
+  ],
+  [
+   "Midday",
+   "ICJ verdict"
+  ],
+  [
+   "Evening",
+   "Markets close -3.7%"
+  ]
+ ]
+}

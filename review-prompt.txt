@@ -1,0 +1,10 @@
+REVIEW (OpenRouter, attempted 22 Nov 2026 ~03:05 WIB) — NO CLEAN REVIEW
+Models tried (all HTTP 404 Not Found, free tier rotated):
+- google/gemma-3-27b-it:free
+- meta-llama/llama-3.1-8b-instruct:free
+- deepseek/deepseek-chat-v3.1:free
+Same pattern as 21 Nov (cohere retired 404; gemma/liquid 429; llama-3.3-70b 404).
+Tuan already ordered submit to proceed without a clean review (21 Nov decision,
+and 22 Nov 02:22 order for this batch). Self-review instead: image checked
+visually twice; facts spot-checked against Reuters/AP/USGS live search results;
+determinism verified (identical sha256 across two runs); kit check run.
